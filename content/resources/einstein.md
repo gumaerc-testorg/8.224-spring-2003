@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: On the Electrodynamics of Moving Bodies
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/f01d65e21c74d64e08f3b2b1d160a607_einstein.pdf
+file: /media/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/f01d65e21c74d64e08f3b2b1d160a607_einstein.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: einstein.pdf
 uid: f01d65e2-1c74-d64e-08f3-b2b1d160a607
