@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0b0df26e-4614-83a3-e108-f9a3bf7fbe89
 resourcetype: Document
 title: midtermpreview.pdf
 uid: aba32807-744b-016c-fbd5-6dc9d2650fb0

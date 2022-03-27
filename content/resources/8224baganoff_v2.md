@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 7b50a572-af98-12cc-19da-d997cf1b40f6
 resourcetype: Document
 title: 8224baganoff_v2.pdf
 uid: e007c016-a27e-15eb-8aa2-970e4af01bba

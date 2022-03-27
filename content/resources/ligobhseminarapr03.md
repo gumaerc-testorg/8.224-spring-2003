@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 7b50a572-af98-12cc-19da-d997cf1b40f6
 resourcetype: Document
 title: ligobhseminarapr03.pdf
 uid: 97464709-cc1f-1db9-29bb-b6ce392f77e2

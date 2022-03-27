@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4547fc80-fce1-63e1-f469-53df984f6a89
 resourcetype: Document
 title: 8224cosmosa67.pdf
 uid: 8bbc2a6f-a0ca-6d16-c30a-4f711a7b973f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4547fc80-fce1-63e1-f469-53df984f6a89
 resourcetype: Document
 title: cosmosa67figs.pdf
 uid: 2ac2439c-fc9e-122d-04b1-a453ffc993ab

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4547fc80-fce1-63e1-f469-53df984f6a89
 resourcetype: Document
 title: gravitymetricscoordinatesnotes2.pdf
 uid: 7126f560-2839-5a77-443d-487c3cf3d0b1

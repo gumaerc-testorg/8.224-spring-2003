@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4547fc80-fce1-63e1-f469-53df984f6a89
 resourcetype: Document
 title: coordsproptime.pdf
 uid: 3982882a-f388-dae3-4079-06357a419cba

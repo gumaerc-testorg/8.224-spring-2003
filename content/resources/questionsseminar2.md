@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 7b50a572-af98-12cc-19da-d997cf1b40f6
 resourcetype: Document
 title: questionsseminar2.pdf
 uid: 5ea7e476-32da-1467-4299-1f6040af711a

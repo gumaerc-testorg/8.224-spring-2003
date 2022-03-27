@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 7b50a572-af98-12cc-19da-d997cf1b40f6
 resourcetype: Document
 title: nontech9.pdf
 uid: 043b8cf6-b985-3418-5b65-8699579a3c2d

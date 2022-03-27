@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4547fc80-fce1-63e1-f469-53df984f6a89
 resourcetype: Document
 title: gravitationalforcesnotes3a.pdf
 uid: e2f3fdb3-7358-ea5c-ed17-c4747c3b4e00
