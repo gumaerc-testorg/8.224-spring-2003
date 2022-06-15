@@ -29,10 +29,13 @@ video_metadata:
 
 Lecturers: Edwin Taylor and Kristin Burgess
 
-Questions Asked by Students in the Second Seminar ([PDF]({{< baseurl >}}/resources/questionsseminar2)) Courtesy of Kristin Burgess.
+Questions Asked by Students in the Second Seminar ({{% resource_link "5ea7e476-32da-1467-4299-1f6040af711a" "PDF" %}}) Courtesy of Kristin Burgess.
 
 4: Global Positioning System - No video
 
 Lecturer: Thomas Herring
 
-Slides ([PDF]({{< baseurl >}}/resources/8224_sem03gks2)) Courtesy of Thomas Herring.
+Slides ({{% resource_link "3f464ff8-478c-6a4f-864f-a04688a3c592" "PDF" %}}) Courtesy of Thomas Herring.
+
+
+

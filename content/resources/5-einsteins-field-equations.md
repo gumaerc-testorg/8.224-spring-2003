@@ -38,4 +38,7 @@ Einstein's SR Paper: First Three Pages of Einstein's Original 1905 Paper on Spec
 
 Lecturer: Frederick K. Baganoff
 
-Slides ([PDF - 1.9 MB]({{< baseurl >}}/resources/8224baganoff_v2)) Courtesy of Frederick Baganoff.
+Slides ({{% resource_link "e007c016-a27e-15eb-8aa2-970e4af01bba" "PDF - 1.9 MB" %}}) Courtesy of Frederick Baganoff.
+
+
+

@@ -28,10 +28,13 @@ video_metadata:
 
 Lecturer: Alan Guth
 
-Slides ([PDF - 1.9 MB]({{< baseurl >}}/resources/nontech9))
+Slides ({{% resource_link "043b8cf6-b985-3418-5b65-8699579a3c2d" "PDF - 1.9 MB" %}})
 
 12: LIGO: Detecting Gravitational Waves - No video
 
 Lecturer: Nergis Mavalvala
 
 Slides ([PPT](http://emvogil-3.mit.edu/~nergis/Talks2003/ligo_BHseminar_apr03.ppt "Open in a new window."))
+
+
+

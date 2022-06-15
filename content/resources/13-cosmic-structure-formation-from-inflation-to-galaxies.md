@@ -30,3 +30,6 @@ video_metadata:
 Lecturer: Edmund Bertschinge
 
 Slides ([HTML](http://web.mit.edu/edbert/Talks/8.224-2/ "Open in a new window."))
+
+
+
