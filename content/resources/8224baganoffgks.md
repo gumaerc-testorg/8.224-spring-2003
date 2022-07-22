@@ -7,6 +7,7 @@ file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: d4defefe-4072-e8b9-cf0f-29a39ad4926b
 ---
 The Supermassive Black Hole at the
 Center of Our Galaxy ? Sagittarius A*
-

@@ -7,6 +7,7 @@ file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: gravitymetricscoordinatesnotes2.pdf
 uid: 7126f560-2839-5a77-443d-487c3cf3d0b1
 ---
 Introduction; Gravity and Fields from Galileo to Einstein; Static, Spherically Symmetric Spacetimes; Newtonian and Einstein Field Equations; Schwarzschild Metric and a Variation
-

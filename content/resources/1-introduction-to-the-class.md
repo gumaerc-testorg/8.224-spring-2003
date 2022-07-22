@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,6 +28,4 @@ video_metadata:
 Introduction to the Class
 
 Lecturer: Edmund Bertschinger
-
-
 

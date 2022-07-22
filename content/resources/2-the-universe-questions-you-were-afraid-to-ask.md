@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -36,6 +37,4 @@ Questions Asked by Students in the Second Seminar ({{% resource_link "5ea7e476-3
 Lecturer: Thomas Herring
 
 Slides ({{% resource_link "3f464ff8-478c-6a4f-864f-a04688a3c592" "PDF" %}}) Courtesy of Thomas Herring.
-
-
 

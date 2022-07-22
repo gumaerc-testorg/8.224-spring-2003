@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -39,6 +40,4 @@ Einstein's SR Paper: First Three Pages of Einstein's Original 1905 Paper on Spec
 Lecturer: Frederick K. Baganoff
 
 Slides ({{% resource_link "e007c016-a27e-15eb-8aa2-970e4af01bba" "PDF - 1.9 MB" %}}) Courtesy of Frederick Baganoff.
-
-
 

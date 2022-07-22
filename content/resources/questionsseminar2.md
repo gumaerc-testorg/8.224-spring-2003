@@ -6,6 +6,7 @@ file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: questionsseminar2.pdf
 uid: 5ea7e476-32da-1467-4299-1f6040af711a
 ---
 Questions supporting lecture titled "The Universe: Questions You Were Afraid to Ask"
-

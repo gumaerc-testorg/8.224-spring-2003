@@ -5,6 +5,7 @@ file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-sprin
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midtermpreview.pdf
 uid: aba32807-744b-016c-fbd5-6dc9d2650fb0
 ---
 Instructions for exam and possible questions.
-
