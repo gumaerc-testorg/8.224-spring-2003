@@ -10,7 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 1.9 MB](resources/nontech9 "Open in a new window."))
+related_resources_text: Slides {{% resource_link "043b8cf6-b985-3418-5b65-8699579a3c2d"
+  "(PDF - 1.9 MB)" %}}
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -24,7 +25,6 @@ video_files:
 video_metadata:
   youtube_id: -fD51fZvZH8
 ---
-
 10: The Universe and Three Examples
 
 Lecturer: Alan Guth
@@ -36,4 +36,3 @@ Slides ({{% resource_link "043b8cf6-b985-3418-5b65-8699579a3c2d" "PDF - 1.9 MB" 
 Lecturer: Nergis Mavalvala
 
 Slides ([PPT](http://emvogil-3.mit.edu/~nergis/Talks2003/ligo_BHseminar_apr03.ppt "Open in a new window."))
-
