@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Questions Asked by Students in the Second Seminar ([PDF](resources/questionsseminar2
-  "Open in a new window.")) Courtesy of Kristin Burgess.
+related_resources_text: Questions Asked by Students in the Second Seminar {{% resource_link
+  "5ea7e476-32da-1467-4299-1f6040af711a" "(PDF)" %}} Courtesy of Kristin Burgess.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,7 +25,6 @@ video_files:
 video_metadata:
   youtube_id: SEcVf93k0ZE
 ---
-
 2: The Universe: Questions You Were Afraid to Ask
 
 Lecturers: Edwin Taylor and Kristin Burgess
@@ -37,4 +36,3 @@ Questions Asked by Students in the Second Seminar ({{% resource_link "5ea7e476-3
 Lecturer: Thomas Herring
 
 Slides ({{% resource_link "3f464ff8-478c-6a4f-864f-a04688a3c592" "PDF" %}}) Courtesy of Thomas Herring.
-
