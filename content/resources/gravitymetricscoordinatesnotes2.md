@@ -4,6 +4,7 @@ description: Introduction; Gravity and Fields from Galileo to Einstein; Static, 
   Symmetric Spacetimes; Newtonian and Einstein Field Equations; Schwarzschild Metric
   and a Variation
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/7126f56028395a77443d487c3cf3d0b1_gravitymetricscoordinatesnotes2.pdf
+file_size: 156460
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/e007c016a27e15eb8aa2970e4af01bba_8224baganoff_v2.pdf
+file_size: 2287607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
