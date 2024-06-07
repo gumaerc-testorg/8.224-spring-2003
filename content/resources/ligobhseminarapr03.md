@@ -2,6 +2,7 @@
 content_type: resource
 description: Detection of Gravitational Waves with Interferometers.
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/97464709cc1f1db929bbb6ce392f77e2_ligobhseminarapr03.pdf
+file_size: 6946540
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

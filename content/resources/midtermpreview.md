@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for exam and possible questions.
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/aba32807744b016cfbd56dc9d2650fb0_midtermpreview.pdf
+file_size: 140913
 file_type: application/pdf
 learning_resource_types:
 - Exams
