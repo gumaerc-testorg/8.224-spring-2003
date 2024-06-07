@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/3982882af388dae3407906357a419cba_coordsproptime.pdf
+file_size: 193844
 file_type: application/pdf
 learning_resource_types:
 - Assignments

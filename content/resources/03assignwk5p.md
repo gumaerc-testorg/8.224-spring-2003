@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/b6712f5750e0d214184962555faf2662_03assignwk5p.pdf
+file_size: 147298
 file_type: application/pdf
 learning_resource_types:
 - Assignments
