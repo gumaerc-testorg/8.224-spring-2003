@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/9794c8007ec04dd93bc3744d0d8feddf_03assignwk7d.pdf
+file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/9794c8007ec04dd93bc3744d0d8feddf_03assignwk7d.pdf
 file_size: 54627
 file_type: application/pdf
 learning_resource_types:

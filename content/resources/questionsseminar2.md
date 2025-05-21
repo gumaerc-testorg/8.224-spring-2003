@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Questions supporting lecture titled "The Universe: Questions You Were
   Afraid to Ask"'
-file: /ol-ocw-studio-app/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/5ea7e47632da146742991f6040af711a_questionsseminar2.pdf
+file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/5ea7e47632da146742991f6040af711a_questionsseminar2.pdf
 file_size: 53144
 file_type: application/pdf
 learning_resource_types:
