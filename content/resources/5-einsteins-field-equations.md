@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 302309943
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -18,7 +18,7 @@ start_time: ''
 title: '5: Einstein''s Field Equations'
 uid: 0b55c06d-326d-35cb-cc9c-3391e6179adb
 video_files:
-  archive_url: http://www.archive.org/download/MIT8.224S03/etaylor-8.224-sem-mit-9151-03mar2003-1430-220k.mp4
+  archive_url: https://ia801307.us.archive.org/34/items/MIT8.224S03/etaylor-8.224-sem-mit-9151-03mar2003-1430-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/8MWNs7Wfk84/default.jpg
   video_transcript_file: null

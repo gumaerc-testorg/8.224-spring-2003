@@ -2,7 +2,7 @@
 content_type: resource
 description: Relativistic Orbits of Matter and Light in the Equatorial Plane of a
   Schwarzschild Black Hole
-file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/9fc0960e6997e054ee474dabfd77e5a2_GRorbits.zip
+file: /ol-ocw-studio-app/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/9fc0960e6997e054ee474dabfd77e5a2_GRorbits.zip
 file_size: 99989
 file_type: application/zip
 learning_resource_types:
