@@ -3,7 +3,7 @@ content_type: resource
 description: 'Introduction: External Aging and the Equivalence Principle; Calculus
   of Variations; Example: Geodesics in the Plane; Example: Scharzschild Spacetime;
   Constants of Motion;'
-file: /courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/e2f3fdb37358ea5ced17c4747c3b4e00_gravitationalforcesnotes3a.pdf
+file: /ol-ocw-studio-app/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/e2f3fdb37358ea5ced17c4747c3b4e00_gravitationalforcesnotes3a.pdf
 file_size: 169481
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 335891476
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: '2: The Universe: Questions You Were Afraid to Ask'
 uid: 81d8eb91-25f6-79b6-1c63-70e46a516ee8
 video_files:
-  archive_url: http://www.archive.org/download/MIT8.224S03/etaylor-8.224-sem-mit-9057-10feb2003-1430-220k.mp4
+  archive_url: https://ia801307.us.archive.org/34/items/MIT8.224S03/etaylor-8.224-sem-mit-9057-10feb2003-1430-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/SEcVf93k0ZE/default.jpg
   video_transcript_file: null

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 194089205
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: '13: Cosmic Structure Formation; From Inflation to Galaxies'
 uid: 07e77b90-84bf-de54-a83a-88c2083bdc44
 video_files:
-  archive_url: http://www.archive.org/download/MIT8.224S03/etaylor-8.224-sem-mit-9151-05may2003-1430-220k.mp4
+  archive_url: https://ia801307.us.archive.org/34/items/MIT8.224S03/etaylor-8.224-sem-mit-9151-05may2003-1430-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/mYaHarsAF5w/default.jpg
   video_transcript_file: null
