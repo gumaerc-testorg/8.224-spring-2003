@@ -11,8 +11,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([HTML](http://web.mit.edu/edbert/Talks/8.224-2/ "Open
-  in a new window."))
+related_resources_text: Slides ({{% resource_link "3e2daecc-22a1-4fc5-9074-f8daea8fb1de"
+  "HTML" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,5 +31,5 @@ video_metadata:
 
 Lecturer: Edmund Bertschinge
 
-Slides ([HTML](http://web.mit.edu/edbert/Talks/8.224-2/ "Open in a new window."))
+Slides ({{% resource_link "3e2daecc-22a1-4fc5-9074-f8daea8fb1de" "HTML" %}})
 
